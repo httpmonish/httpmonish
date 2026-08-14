@@ -93,20 +93,7 @@ const monish = {
 
 ### 🧩 Competitive Programming
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap" alt="LeetCode Stats" width="100%"/>
-</td>
-<td width="50%" align="center">
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_HANDLE" alt="Codeforces Stats" width="100%"/>
-</a>
-<br/>
-<img src="https://codeforces-readme-stats.vercel.app/api/badge?username=YOUR_CODEFORCES_HANDLE" alt="Codeforces Rating" />
-</td>
-</tr>
-</table>
+
 
 <br/>
 
