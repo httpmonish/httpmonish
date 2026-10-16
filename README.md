@@ -90,6 +90,9 @@ const monish = {
 </div>
 
 <br/>
+### 📊 3D Contribution Graph
+
+<img src="https://raw.githubusercontent.com/httpmonish/TripLine/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph" />
 
 ### 🧩 Competitive Programming
 
